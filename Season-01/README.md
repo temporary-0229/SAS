@@ -2,7 +2,7 @@
 ## Prepare Coding Interview
 
 ### who
-* ![jihoon](https://github.com/super-fishz.png?size=30)
+* ![jihoon](https://github.com/super-fishz.png?size=30) jihoon
 * FIXME bybogon
 * FIXME moonchanyong
 
